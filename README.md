@@ -14,12 +14,15 @@ In a certain game if both players select the same weapon the game is a **DRAW** 
 
 ## Gameplay
 When you start the game you will receive a prompt:
+
 `> Choose [r]ock, [p]aper, [s]cissors [t]est or [Q]uit: `
 
 Make your choise like  this:
+
 `> Choose [r]ock, [p]aper, [s]cissors [t]est or [Q]uit: **r**`
 
-If you chose **q** the game will end and final result will be presented:
+If you chose **[q]** the game will end and final result will be presented:
+
 `Final score:
 you 17 : 16 computer
 YOU WON THE GAME!`

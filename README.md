@@ -26,7 +26,7 @@ If you chose `q` the game will end and final result will be presented:
 ```
 Final score:  
 you 17 : 16 computer  
-$${\color{YOU WON THE GAME}Green}$$!
+YOU WON THE GAME!
 ```
 
 If the input is wrong, a second prompt will appear:

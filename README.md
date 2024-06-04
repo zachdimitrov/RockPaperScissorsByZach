@@ -4,7 +4,7 @@
 This is a simple version of the classic game "Rock Paper Scissors".
 
 ## Introduction
-[Rock - Paper - Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors) is a classic game for **two players**, who simultaniously chose one of the following:
+[Rock - Paper - Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors) is a classic game for **two players**, who simultaniously chose one of the following weapons:
 - **rock** - beats the scissors (smashes them)
 - **scissors** - beats thte paper (cuts it)
 - **paper** - beats the rock (covers it)
@@ -43,3 +43,12 @@ Your input should look like this example: `1000 r`.
 This means that 1000 games will be played with **rock** as your selection (the computer will select its weapon randomly).  
 If the input is wrong, a second prompt will appear:  
 `> Please try again - [number] [r][p][s]: `
+
+## Code
+All of the game code is written in **Python 3.9**.
+There are a number of methods for selecting text color using escape codes like this:
+```py
+def pr_red(skk): print(f"\033[91m{skk}\033[00m")
+def pr_green(skk): print(f"\033[92m{skk}\033[00m")
+def pr_yellow(skk): print(f"\033[93m{skk}\033[00m")
+```

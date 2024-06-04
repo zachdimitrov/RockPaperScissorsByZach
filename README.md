@@ -54,3 +54,19 @@ def pr_red(skk): print(f"\033[91m{skk}\033[00m")
 def pr_green(skk): print(f"\033[92m{skk}\033[00m")
 def pr_yellow(skk): print(f"\033[93m{skk}\033[00m")
 ```
+
+The computer selects its weapon randomly using this method:
+
+```py
+import random
+def computer_move_selector():
+    random_number = random.randint(1, 3)
+    cm = ''
+    if random_number == 1:
+        cm = rock
+    elif random_number == 2:
+        cm = paper
+    elif random_number == 3:
+        cm = scissors
+    return cm
+```

@@ -19,10 +19,25 @@ When you start the game you will receive a prompt:
 
 Make your choise like  this:
 
-`> Choose [r]ock, [p]aper, [s]cissors [t]est or [Q]uit: **r**`
+`> Choose [r]ock, [p]aper, [s]cissors [t]est or [Q]uit:` `r`
 
-If you chose **[q]** the game will end and final result will be presented:
+If you chose `q` the game will end and final result will be presented:
 
 `Final score:  
 you 17 : 16 computer  
 YOU WON THE GAME!`
+
+If the input is wrong, a second prompt will appear:
+`> Please choose again - [r][p][s][t][q]: `
+
+### Test mode
+If you select `t` at the begining, a **tets mode** is executed
+
+`> Select number of tests and command separated by interval [number] [r][p][s]: `
+
+This means that you can play a given number of games automatically with a selected weapon (rock, paper or scissors) and see the final result.
+
+Your input should look like this example: `1000 r`.
+This means that 1000 games will be played with **rock** as your selection (the computer will select its weapon randomly).
+If the input is wrong, a second prompt will appear:
+`> Please try again - [number] [r][p][s]: `

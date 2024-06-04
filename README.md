@@ -23,9 +23,9 @@ Make your choise like  this:
 
 If you chose `q` the game will end and final result will be presented:
 
-`Final score:  
-you 17 : 16 computer  
-YOU WON THE GAME!`
+  `Final score:  
+  you 17 : 16 computer  
+  YOU WON THE GAME!`
 
 If the input is wrong, a second prompt will appear:
 `> Please choose again - [r][p][s][t][q]: `

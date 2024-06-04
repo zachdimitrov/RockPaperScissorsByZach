@@ -70,3 +70,6 @@ def computer_move_selector():
         cm = scissors
     return cm
 ```
+## Live Demo
+You can play the game in browser here:
+[<img alt="Play Button" src="https://github.com/zachdimitrov/RockPaperScissorsByZach/assets/11989564/e8ca0896-47fc-428a-ba86-60ac7531cc2a" />](https://replit.com/@zaharid/RockPaperScissorsGame#main.py)

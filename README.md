@@ -29,7 +29,7 @@ you 17 : 16 computer
 YOU WON THE GAME!
 ```
 
-If the input is wrong, a second prompt will appear:
+If the input is wrong, a second prompt will appear:  
 `> Please choose again - [r][p][s][t][q]: `
 
 ### Test mode
@@ -39,7 +39,7 @@ If you select `t` at the begining, a **tets mode** is executed
 
 This means that you can play a given number of games automatically with a selected weapon (rock, paper or scissors) and see the final result.
 
-Your input should look like this example: `1000 r`.
-This means that 1000 games will be played with **rock** as your selection (the computer will select its weapon randomly).
-If the input is wrong, a second prompt will appear:
+Your input should look like this example: `1000 r`.  
+This means that 1000 games will be played with **rock** as your selection (the computer will select its weapon randomly).  
+If the input is wrong, a second prompt will appear:  
 `> Please try again - [number] [r][p][s]: `

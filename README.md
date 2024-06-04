@@ -23,7 +23,7 @@ Make your choise like  this:
 
 If you chose **[q]** the game will end and final result will be presented:
 
-`Final score:`
+`Final score:
 
 you 17 : 16 computer
 

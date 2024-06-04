@@ -3,6 +3,8 @@
 #### SoftUni - Python Fundamentals Course - Educational Project
 This is a simple version of the classic game "Rock Paper Scissors".
 
+![image](https://github.com/zachdimitrov/RockPaperScissorsByZach/assets/11989564/93f348bc-ec15-4b46-a908-8c9f0158c458)
+
 ## Introduction
 [Rock - Paper - Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors) is a classic game for **two players**, who simultaniously chose one of the following weapons:
 - **rock** - beats the scissors (smashes them)

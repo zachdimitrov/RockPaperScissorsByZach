@@ -35,7 +35,7 @@ If the input is wrong, a second prompt will appear:
 `> Please choose again - [r][p][s][t][q]: `
 
 ### Test mode
-If you select `t` at the begining, a **tets mode** is executed
+If you select `t` at the begining, a **test mode** is executed
 
 `> Select number of tests and command separated by interval [number] [r][p][s]: `
 

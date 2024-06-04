@@ -25,6 +25,6 @@ If you chose **[q]** the game will end and final result will be presented:
 
 `Final score:`
 
-`you 17 : 16 computer`
+you 17 : 16 computer
 
-`YOU WON THE GAME!`
+YOU WON THE GAME!`
